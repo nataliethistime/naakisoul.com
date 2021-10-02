@@ -15,8 +15,8 @@
           Naaki Soul is a local Brisbane band.
         </div>
 
-        <div class="block my-6">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/8lzaRV27jNU"
+        <div class="block my-6" style="max-width: 560px; margin: 0 auto;">
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/8lzaRV27jNU"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
