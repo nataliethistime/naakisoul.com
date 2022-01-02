@@ -12,7 +12,7 @@
 
   html, body {
     font-family: 'StretchPro';
-    background-image: url(https://images.unsplash.com/photo-1514454529242-9e4677563e7b);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/naaki.jpg);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -24,6 +24,14 @@
 
   .container {
     background-color: rgba(0, 0, 0, 0.8);
-    padding: 1em;
+    padding: 3em 1em 3em 1em;
+  }
+
+  .is-gallery img {
+    max-height: 300px;
+  }
+
+  img {
+    border-radius: 1em;
   }
 </style>

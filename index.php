@@ -9,18 +9,16 @@
   <body>
     <section class="section">
       <div class="container content has-text-centered">
-        <h1 class="title is-size-4">Naaki Soul</h1>
-
-        <div class="block">
-          Naaki Soul is a local Brisbane band.
+        <div class="block mb-6">
+          <h1 class="title is-size-1">Naaki Soul</h1>
         </div>
 
-        <div class="block my-6" style="max-width: 560px; margin: 0 auto;">
-          <iframe width="100%" height="315" src="https://www.youtube.com/embed/8lzaRV27jNU"
-            title="YouTube video player" frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-          ></iframe>
+        <div class="block mb-6 has-text-centered">
+          <img src="/img/6.jpg">
+        </div>
+
+        <div class="block has-text-centered mb-6">
+          <a href="/home" class="button is-white is-outlined is-large">Enter</a>
         </div>
       </div>
     </section>
