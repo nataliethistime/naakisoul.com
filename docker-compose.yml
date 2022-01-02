@@ -2,7 +2,8 @@ version: '3'
 
 services:
   web:
-    image: php:8.0-apache
+    image: web
+    build: .
     volumes:
       - '.:/var/www/html'
     expose:
