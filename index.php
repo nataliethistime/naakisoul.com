@@ -14,7 +14,7 @@
         </div>
 
         <div class="block mb-6 has-text-centered">
-          <img src="/img/6.jpg">
+          <img class="main-image" src="./img/6.jpg">
         </div>
 
         <div class="block has-text-centered mb-6">

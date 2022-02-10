@@ -12,7 +12,7 @@
 
   html, body {
     font-family: 'StretchPro';
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/naaki.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./img/naaki.jpg);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -31,7 +31,7 @@
     max-height: 300px;
   }
 
-  img {
-    border-radius: 1em;
+  .main-image {
+    width: 75%;
   }
 </style>

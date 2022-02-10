@@ -17,29 +17,29 @@
         </div>
 
         <div class="block mb-6">
-          <p>the indie rock-shoegaze-midwest emo infused solo recording project of anika</p>
+          <p>meanjin (bris) based indie rock / midwest-emo / shoegaze solo recording project of anika</p>
         </div>
 
         <div class="block mb-6">
           <div class="columns is-multiline is-centered is-gallery">
             <div class="column is-narrow">
-              <img src="/img/1.jpg">
+              <img src="./img/1.jpg">
             </div>
 
             <div class="column is-narrow">
-              <img src="/img/2.jpg">
+              <img src="./img/2.jpg">
             </div>
 
             <div class="column is-narrow">
-              <img src="/img/3.jpg">
+              <img src="./img/3.jpg">
             </div>
 
             <div class="column is-narrow">
-              <img src="/img/4.jpg">
+              <img src="./img/4.jpg">
             </div>
 
             <div class="column is-narrow">
-              <img src="/img/5.jpg">
+              <img src="./img/5.jpg">
             </div>
           </div>
         </div>
@@ -49,6 +49,12 @@
             <div class="level-item">
               <div>
                 <a href="https://www.facebook.com/naakisoul" class="button is-large is-white is-outlined" target="_blank">Facebook</a>
+              </div>
+            </div>
+
+            <div class="level-item">
+              <div>
+                <a href="https://www.instagram.com/hevyrocky/" class="button is-large is-white is-outlined" target="_blank">Instagram</a>
               </div>
             </div>
 
