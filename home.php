@@ -17,7 +17,7 @@
         </div>
 
         <div class="block mb-6">
-          <p>meanjin (bris) based indie rock / midwest-emo / shoegaze solo recording project of anika</p>
+          <p>Meanjin-based indie rock / midwest emo / shoegaze</p>
         </div>
 
         <div class="block mb-6">
@@ -44,32 +44,57 @@
           </div>
         </div>
 
-        <div class="block">
-          <nav class="level">
-            <div class="level-item">
-              <div>
-                <a href="https://www.facebook.com/naakisoul" class="button is-large is-white is-outlined" target="_blank">Facebook</a>
-              </div>
-            </div>
 
-            <div class="level-item">
-              <div>
-                <a href="https://www.instagram.com/hevyrocky/" class="button is-large is-white is-outlined" target="_blank">Instagram</a>
-              </div>
-            </div>
+        <div class="block mb-6">
+          <div class="columns">
+            <div class="column"></div>
+            <div class="column is-two-fifths">
 
-            <div class="level-item">
-              <div>
-                <a href="https://naakisoul.bandcamp.com/" class="button is-large is-white is-outlined" target="_blank">Bandcamp</a>
-              </div>
-            </div>
+              <nav class="level">
+                <div class="level-item">
+                  <div>
+                    <a href="https://www.facebook.com/naakisoul" class="button is-large is-white is-outlined" target="_blank">
+                      <span class="icon">
+                        <i class="fab fa-facebook"></i>
+                      </span>
+                    </a>
+                  </div>
+                </div>
 
-            <div class="level-item">
-              <div>
-                <a href="https://twitter.com/naakisoul" class="button is-large is-white is-outlined" target="_blank">Twitter</a>
-              </div>
+                <div class="level-item">
+                  <div>
+                    <a href="https://www.instagram.com/hevyrocky/" class="button is-large is-white is-outlined" target="_blank">
+                      <span class="icon">
+                        <i class="fab fa-instagram"></i>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+
+                <div class="level-item">
+                  <div>
+                    <a href="https://twitter.com/naakisoul" class="button is-large is-white is-outlined" target="_blank">
+                      <span class="icon">
+                        <i class="fab fa-twitter"></i>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+
+                <div class="level-item">
+                  <div>
+                    <a href="https://naakisoul.bandcamp.com/" class="button is-large is-white is-outlined" target="_blank">
+                      <span class="icon">
+                        <i class="fab fa-bandcamp"></i>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+              <nav>
+
             </div>
-          </nav>
+            <div class="column"></div>
+          </div>
         </div>
 
       </div>

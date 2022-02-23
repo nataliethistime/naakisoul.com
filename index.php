@@ -14,7 +14,9 @@
         </div>
 
         <div class="block mb-6 has-text-centered">
-          <img class="main-image" src="./img/6.jpg">
+          <video width="560" autoplay loop muted>
+            <source src="./video/naaki_vid.mp4" type="video/mp4">
+          </video>
         </div>
 
         <div class="block has-text-centered mb-6">
