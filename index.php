@@ -1,3 +1,8 @@
+<?php
+
+require_once __DIR__ . '/includes/util.php';
+
+?>
 
 <!DOCTYPE html>
 <html lang="en">
